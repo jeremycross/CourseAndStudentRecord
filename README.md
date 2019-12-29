@@ -11,7 +11,7 @@ Picture of the student menu:
 ![alt text](https://github.com/jeremycross/CourseAndStudentRecord/blob/master/courseInterface.PNG)  
 
 The course record is another tab found of the GUI, it also has the capability of editing, addition and removal of courses within the system  
-All course information is visible on the table found on this tab. Utilizing the edit button any additions, deletions or edits can be made and then can be saved  
+All course information is visible on the table found on this tab. Utilizing the edit button allows for any additions, deletions or edits can be made and then can be saved  
   
 Picture of the course menu:  
 ![alt text](https://github.com/jeremycross/CourseAndStudentRecord/blob/master/courseInterface.PNG)  
