@@ -1,5 +1,6 @@
 # CourseAndStudentRecord
-A GUI application built with the aid of NetBeans which can be used to manage students (Designed to work on my machine since this was built years ago, improvements will be added if the time is found)  
+A GUI application built with the aid of NetBeans which can be used to manage students (Designed to work on my machine since this was built years ago, improvements will be added if the time is found).  
+  
 The student record allows for editing, addition and removal of students within the system, the system is stored using textfiles to allow for non-volatile memory of the stored information  
 List of navigation features on the student menu include:  
  - Listing all students/select students (based on their grade) with varying degree of provided information  
