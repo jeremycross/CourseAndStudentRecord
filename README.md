@@ -1,5 +1,11 @@
 # CourseAndStudentRecord
-A GUI application built with the aid of NetBeans which can be used to manage students (Designed to work on my machine since this was built years ago, improvements will be added if the time is found).  
+A GUI application built with the aid of NetBeans which can be used to manage students (Designed to work on my machine since this was built years ago, improvements will be added if the time is found). 
+
+*Improvements for future*
+ - Add use of OOP design (students and courses can be made into objects)
+ - Use serialization for remembering students
+ - Single responsibility fulfilled
+ - Recreate using JavaFX
   
 The student record allows for editing, addition and removal of students within the system, the system is stored using textfiles to allow for non-volatile memory of the stored information  
 List of navigation features on the student interface include:  
