@@ -19,8 +19,8 @@ List of navigation features on the student interface include:
 ![alt text](https://github.com/jeremycross/CourseAndStudentRecord/blob/master/studentInterface.PNG)  
 
 ## Course record
-The course record is another tab found of the GUI, it also has the capability of editing, addition and removal of courses within the system  
-All course information is visible on the table found on this tab. Utilizing the edit button allows for any additions, deletions or edits can be made and then can be saved  
+The course record is another tab found on the GUI, it also has the capability of editing, addition and removal of courses within the system.  
+All course information is visible on the table found on this tab. Utilizing the edit button allows for any additions, deletions or edits and then can be saved.  
   
 **Picture of the course interface:**  
 ![alt text](https://github.com/jeremycross/CourseAndStudentRecord/blob/master/courseInterface.PNG)  
